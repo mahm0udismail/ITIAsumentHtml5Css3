@@ -1,0 +1,106 @@
+.navbaraa {
+    position: sticky;
+}
+.inFristDiv{
+    background-image: url("img/h1_hero1.jpg.webp");
+    height: 1000px;
+
+}
+.row{
+padding: 3rem;
+}
+.second{
+    background-color: rgb(252,242,235);
+}
+
+.btn2{
+    background-color: #F15B43;
+    color: #fff;
+    padding: 0.5rem 0.5rem;
+    font-size: 18px;
+    border-radius: 0px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.btn2:hover {
+    background-color: #fff;
+    color: #F15B43;
+
+}
+.editcards{
+    padding: 2rem 0;
+    display: grid;
+    grid-template-columns:  repeat(auto-fit, minmax(33.3333%, 1fr));
+    
+    justify-items: center;
+}
+.card {
+    width: 100%;
+  }
+
+  .btn3{
+    background-color: #F15B43;
+    color: #fff;
+    
+    font-size: 18px;
+    border-radius: 0px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    display: inline-block;
+    
+  }
+
+  .btn3:hover {
+    background-color: #fff;
+    color: #F15B43;
+
+}
+.number5{
+    background-color: #F15B43;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+
+.colnumber5{
+    text-align: center;
+}
+
+.colnumber6{
+    padding: 20%;
+}
+.btnumber6{
+    background-color: #F15B43;
+    color: #fff;
+    
+    font-size: 20%;
+    border-radius: 0px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    display: inline-block;
+    
+    
+}
+
+iframe{
+    width: 100%;
+}
+footer{
+    background-color: rgb(38,59,92);
+    color: white;
+}
+.iconnnn{
+    width: 10%;
+}
